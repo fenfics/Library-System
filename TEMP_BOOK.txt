@@ -1,14 +1,19 @@
-978-0-7432-7356-5    The Da Vinci Code                                  Dan Brown                  รป. บ174 2553      Thai Fiction          A
+978-0-7432-7356-5    The Da Vinci Code                                  Dan Brown                  รป. บ174 2553      Thai Fiction          B
 978-0-307-29136-8    Angels & Demons                                    Dan Brown                  รป. บ174 2554      Thriller              A
 000-0-000-00000-0    TEST book                                          KunakornTest               สส. ส000 2568      Test                  A
 111-1-111-11111-1    One book                                           Payut ChanoCha             ปป. ป111 2561      Test                  A
-978-1-4028-9462-6    Inferno                                            Dan Brown                  รป. บ174 2556      Thriller              B
+978-1-4028-9462-6    Inferno                                            Dan Brown                  รป. บ174 2556      Thriller              A
 978-0-7432-7357-2    Digital Fortress                                   Dan Brown                  รป. บ174 2552      Thriller              B
 978-0-345-39180-3    Harry Potter and the Sorcerer's Stone              J.K. Rowling               รป. ฮ123 2544      Fantasy               B
 978-0-7432-7358-9    Harry Potter and the Chamber of Secrets            J.K. Rowling               รป. ฮ123 2545      Fantasy               A
-978-0-261-10325-5    The Hobbit                                         J.R.R. Tolkien             รป. ท111 2536      Fantasy               B
+978-0-261-10325-5    The Hobbit                                         J.R.R. Tolkien             รป. ท111 2536      Fantasy               A
 978-0-261-10326-2    The Lord of the Rings                              J.R.R. Tolkien             รป. ท111 2537      Fantasy               B
 978-0-141-03491-4    1984                                               George Orwell              รป. อ198 2521      Classic               A
 978-0-141-03492-1    Animal Farm                                        George Orwell              รป. อ198 2520      Classic               A
 978-0-316-76948-0    The Silent Patient                                 Alex Michaelides           รป. ม321 2562      Thriller              B
 978-0-525-56424-7    Where the Crawdads Sing                            Delia Owens                รป. อ456 2561      Fiction               B
+978-4-08-872509-3    One Piece Vol.1                                    Eiichiro Oda               รป. ก101 2540      Cartoon               A
+978-4-06-319894-6    Attack on Titan Vol.1                              Hajime Isayama             รป. ก102 2552      Cartoon               B
+978-4-08-871465-3    Naruto Vol.1                                       Masashi Kishimoto          รป. ก103 2542      Cartoon               B
+978-4-06-319411-5    Fairy Tail Vol.1                                   Hiro Mashima               รป. ก104 2549      Cartoon               B
+978-4-7859-1972-7    Doraemon Vol.1                                     Fujiko F. Fujio            รป. ก105 2522      Cartoon               B
